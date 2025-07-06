@@ -40,16 +40,8 @@ disclosure.
 Corporate Misconduct and Employee Perceptions
 
 Yuqing Zhou, Siyu Yu, **Jinlin Li**
-- We find evidence that upon the announcement of financial misconduct, employee company overall ratings decline by 0.25 standard deviation (std). 
+- We find evidence that upon the announcement of financial misconduct, employee company overall ratings decline by 0.23 standard deviation (std). 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Master’s Thesis</div><img src='images/Capstone.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-China’s Hukou Reform - Effects on Migrant Families’ Accompanying Behavior
-
-**Jinlin Li**
-- Utilize a generalized difference-in-differences approach to evaluate the causal impact of China’s Household Registration System (Hukou) Reform on the accompanying behavior of migrant families.
-- Regression results show that the Hukou reform significantly increased the likelihood of family migration in non-megacities.
 
 # 🎖 Honors and Awards
 - *2025.08* University of Connecticut School of Business, Doctoral Fellowship. 
