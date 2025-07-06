@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Jinlin, and I am currently a Ph.D. student at the University of Connecticut. I earned my bachelor’s degree in accounting from the School of Management, Fudan University. After graduation, I worked as a finance manager in a real estate company for three and a half years. I am deeply interested in exploring human activities and social science problems, particularly in the business world, where intellectual minds and professionals come together. Accounting, as the language of business, offers a unique lens to investigate a wide range of economic and societal phenomena.
+Hi! I am Jinlin, a Ph.D. student at the University of Connecticut. I obtained my bachelor’s degree in accounting from the School of Management, Fudan University. After graduation, I worked as a finance manager in a real estate company for three and a half years. I am deeply interested in exploring human activities and social science problems, particularly in the business world, where intellectual minds and professionals come together. Accounting, as the language of business, offers a unique lens to investigate a wide range of economic and societal phenomena.
 
 My research interest includes political economy, labor market, financial accounting, capital markets, and corporate
 disclosure. 
